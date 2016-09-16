@@ -2,27 +2,27 @@
 
 Se connecter à https://developer.apple.com/account/ios/certificate avec ses identifiants Apple et acceder à cette page. Trouver dans la liste le bundle identifier que l'on veut modifier.  Cliquer dessus pour faire dérouler les informations, puis cliquer sur le bouton `Edit`.
 
-![alt text](captures/cap1.png "Capture liste identifiers")
+![alt text](captures/notification/cap1.png "Capture liste identifiers")
 
 Activer les notifications push.
 
-![alt text](captures/cap2.png "Capture config notification")
+![alt text](captures/notification/cap2.png "Capture config notification")
 
 Maintenant aller dans le gestionnaire de `Trousseaux d'accès`.
 
-![alt text](captures/cap3.png "Capture trousseaux d'accès")
+![alt text](captures/notification/cap3.png "Capture trousseaux d'accès")
 
 Dans le menu de la fenètre aller dans `Trousseaux d'accès -> Assistant de certification -> Demander un certificat à une autorité de certificat...`.
 
-![alt text](captures/cap4.png "Capture accès génération")
+![alt text](captures/notification/cap4.png "Capture accès génération")
 
 Renseigner ses données, surtout cocher la case `Enregistrée sur disque`. Enregistrer le fichier.
 
-![alt text](captures/cap5.png "Capture accès génération")
+![alt text](captures/notification/cap5.png "Capture accès génération")
 
 Retour sur le site Apple Developer, cliquer sur `Create Certificate` dans la section `Production SSL Certificate` pour avoir un certificat de production.
 
-![alt text](captures/cap2-2.png "Capture config notification")
+![alt text](captures/notification/cap2-2.png "Capture config notification")
 
 Suiver les instructions.
 
